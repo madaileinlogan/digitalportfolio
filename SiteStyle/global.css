@@ -433,9 +433,13 @@ header {
 .indexheader {
 	margin-top: -1%;
 	width: 100%;
-	background-image: url("../Images/MLogan_WebsiteBackground.jpg");
+	background-image: url("../Images/MLogan_IndexBackground.jpg");
 	height: 100%;
 	padding-bottom: 32%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center; 
+	background-size: cover;
 }
 
 .indexnav {
@@ -446,6 +450,7 @@ header {
 
 .indexheading {
 	
+	color: white;
 }
 
 nav {
