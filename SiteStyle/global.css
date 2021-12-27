@@ -435,6 +435,7 @@ header {
 	width: 100%;
 	background-image: url("../Images/MLogan_IndexBackground.jpg");
 	height: 100%;
+	margin-bottom: 20px;
 	padding-bottom: 32%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -444,7 +445,7 @@ header {
 
 .indexnav {
 	margin-top: -7%;
-	margin-bottom: 20px;
+	margin-bottom: 5%;
 	background: none;
 }
 
