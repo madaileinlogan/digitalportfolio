@@ -93,7 +93,6 @@
 		text-decoration:none;
 		background-color: white;
 		margin-left: 15%;
-		margin-top: 2%;
 		width: 62%;
 		padding: 40px 40px 40px 60px;
 		color: black;
@@ -430,30 +429,7 @@ header {
 	padding-bottom: 0.6%;
 }
 		
-.indexheader {
-	margin-top: -1%;
-	width: 100%;
-	background-image: url("../Images/MLogan_IndexBackground.jpg");
-	height: 100%;
-	margin-bottom: 20px;
-	padding-bottom: 32%;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: center; 
-	background-size: cover;
-}
-
-.indexnav {
-	margin-top: -7%;
-	margin-bottom: 5%;
-	background: none;
-}
-
-.indexheading {
-	
-	color: white;
-}
-
+		
 nav {
 	display: block;
 	background-color: black;
